@@ -10,7 +10,7 @@ Install workflow and enter following keywords depending on what you want to achi
 - `tf`: open current **Terminal** directory in **Finder**
 - `fi`: open current **Finder** directory in **iTerm**
 - `if`: open current **iTerm** directory in **Finder**
-- `fj`: open current **Finder** directory in **Jupyter**
+- `fj`: open current **Finder** directory in **Jupyter** through **iTerm**
 
 Thanks to @olibob we also have [Path Finder](http://www.cocoatech.com/ "Path Finder 6 by Cocoatech") support:
 
